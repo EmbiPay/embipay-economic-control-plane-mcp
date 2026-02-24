@@ -1,7 +1,7 @@
 {
   "name": "embipay-economic-control-plane-mcp",
   "version": "1.0.0",
-  "private": true,
+  "description": "Economic Control Plane for autonomous AI systems (MCP server).",
   "type": "module",
   "main": "server.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "axios": "^1.6.0",
     "dotenv": "^16.4.0",
     "express": "^4.18.2"
-  }
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai-governance",
+    "economic-control",
+    "fleet-coordination"
+  ],
+  "license": "MIT"
 }
